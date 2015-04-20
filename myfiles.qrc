@@ -1,2 +1,7 @@
-<RCC/>
-
+<RCC>
+    <qresource prefix="/MyPng">
+        <file>id.png</file>
+        <file>map.png</file>
+        <file>route.png</file>
+    </qresource>
+</RCC>
